@@ -1,0 +1,15 @@
+{
+  "name": "parcel-rust-example",
+  "version": "1.0.0",
+  "description": "Example of using Rust code in Parcel",
+  "repository": "jamiebuilds/parcel-rust-example",
+  "author": "Jamie Kyle <me@thejameskyle.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "parcel build index.html",
+    "serve": "parcel serve index.html"
+  },
+  "devDependencies": {
+    "parcel": "^1.9.6"
+  }
+}
